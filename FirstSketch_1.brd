@@ -151,6 +151,7 @@
 <wire x1="69.7528" y1="0" x2="69.7782" y2="69.7332" width="0" layer="20"/>
 <wire x1="69.7782" y1="69.7332" x2="0.0254" y2="69.7332" width="0" layer="20"/>
 <wire x1="0.0254" y1="69.7332" x2="0" y2="0" width="0" layer="20"/>
+<hole x="58" y="62" drill="3.3"/>
 </plain>
 <libraries>
 <library name="homemade-hardware">
